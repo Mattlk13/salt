@@ -88,7 +88,7 @@ azure-storage-common==1.4.0  # via azure-cosmosdb-table, azure-storage-blob, azu
 azure-storage-file==1.4.0  # via azure
 azure-storage-queue==1.4.0  # via azure
 azure==4.0.0
-certifi==2019.3.9         # via msrest, requests
+certifi==2022.12.7         # via msrest, requests
 cffi==1.12.2              # via azure-datalake-store, cryptography
 chardet==3.0.4            # via requests
 cryptography==2.6.1       # via adal, azure-cosmosdb-table, azure-keyvault, azure-storage-common, requests-ntlm
