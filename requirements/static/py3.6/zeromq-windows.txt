@@ -111,7 +111,7 @@ urllib3==1.24.3           # via botocore, kubernetes, python-etcd, requests, req
 virtualenv==16.4.3
 websocket-client==0.40.0  # via docker, kubernetes
 werkzeug==0.15.2          # via moto
-wheel==0.33.4
+wheel==0.38.1
 wmi==1.4.9
 wrapt==1.11.1             # via aws-xray-sdk
 ws4py==0.5.1              # via pylxd
