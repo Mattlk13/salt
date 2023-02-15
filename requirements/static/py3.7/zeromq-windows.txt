@@ -110,7 +110,7 @@ tornado==4.5.3 ; python_version >= "3.4"
 urllib3==1.24.3           # via botocore, kubernetes, python-etcd, requests, requests-unixsocket
 virtualenv==16.4.3
 websocket-client==0.40.0  # via docker, kubernetes
-werkzeug==0.15.2          # via moto
+werkzeug==2.2.3          # via moto
 wheel==0.33.4
 wmi==1.4.9
 wrapt==1.11.1             # via aws-xray-sdk
